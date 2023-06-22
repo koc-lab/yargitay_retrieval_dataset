@@ -1,4 +1,4 @@
-# yargitay_retrieval_dataset
+# Turkish Prior Court Case Retrieval (TPCR) Dataset
 In this repo, we provide information for the legal cases in the "retrieval dataset" of the paper "Prior Case Retrieval for the Court of Cassation of Turkey". The dataset is provided as a CSV file named "Retrieval Dataset.csv". The file consists of 4 columns. For each legal case, the columns correspond to the sentence describing the topic of the case, the name of the division of the case, the document number, and the decision number. We did not include the decision texts from the legal cases due to the privacy concerns of the plaintiffs and defendants. The information provided in the CSV file can be used on the search engine of the official [website](https://karararama.yargitay.gov.tr/) of the Turkish Court of Cassation (Yargıtay) to find the decision texts of the cases included in the "retrieval dataset" of the paper.
 
 ## Citation
